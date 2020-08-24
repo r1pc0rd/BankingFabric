@@ -1,0 +1,11 @@
+{
+  "subType" : "customapp",
+  "description" : "MyBankingDemo",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "MarketServices",
+    "version" : "1.0",
+    "etag" : "99981d9e-a9db-4b4e-8277-493223d04035"
+  } ],
+  "identity" : [ "BankingIdentity" ]
+}
